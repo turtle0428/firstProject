@@ -9,6 +9,6 @@
 <html>
 <head><title>My JSP Page</title></head>
 <body>
-<h1>Hello, JSP!</h1>
+<h1>Hello, Good Day!</h1>
 </body>
 </html>
